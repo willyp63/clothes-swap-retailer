@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Crocs Men's Santa Cruz Slip-On",
+    "brand": "Crocs",
+    "price": "$38.48",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Crocs-Men-s-Santa-Cruz-Loafers/888951015",
+    "imgLink": "https://i5.walmartimages.com/asr/6008e4bb-4dfe-45a2-bbfb-15b0aa181b78.6aeac266fdc46ec9cce5216f3fbe78fc.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Clarks Ashmont Way",
+    "brand": "Clarks",
+    "price": "$123.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Clarks-Ashmont-Way/174337543",
+    "imgLink": "https://i5.walmartimages.com/asr/d198f64f-84d6-4fb5-8414-6c33839935cf_1.f41455ff3d4c0c7b4c5b6fc7ebdea6be.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Men's Flip Flops Beach Sandals Lightweight EVA Sole Comfort Thongs",
+    "brand": "Alpine Swiss",
+    "price": "$10.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Alpine-Swiss-Men-s-Flip-Flops-Beach-Sandals-Lightweight-EVA-Sole-Comfort-Thongs/188108075?wpa_bd=&wpa_pg_seller_id=6ED6480FF7CB494FB83366D7D826D993&wpa_ref_id=wpaqs:hKksGTeVXIcahsni9PtdpsM8ZfkNWR3MrPLJTVRYnChleUjmOKKe22Kmi0xzkprRXAiQF-PzsLhl6wVkOo6gFFeU4Z9AEgPgoRm1W2DxAqveAQmozny-xQlLK3qQgHTi3aFZCMVRxXNGYPCn89XFvXPlRHn0jWeh-4yCHcnZnTTGrXXwyGitzhRpnWZArvDGlNjY_3WoYkVJIUxhnI3EXQ&wpa_tag=&wpa_aux_info=&wpa_pos=3&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=dd93ad2d-f375-497e-b972-fac4fcfd77d2&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_7671149&wpa_st=Mens%2BComfort&wpa_tax=5438_1045804_1045807_7671149&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/dc177702-a42b-4bed-8e3d-714ee1254cfb_1.e8dca3f0b0f398eab6921873875c83fe.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr. Scholl's Men's Climber Work Boot",
+    "brand": "Dr. Scholl's Shoes",
+    "price": "$35.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Men-s-Climber-Work-Boot/445709472",
+    "imgLink": "https://i5.walmartimages.com/asr/0ec29a6e-1641-4b5b-993a-f7afb20c53da_1.d2d0cbe2277bea30553808e1a4aa67c2.png?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Charlee Plain Toe Oxford",
+    "brand": "Rockport",
+    "price": "$87.47",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Charlee-Plain-Toe-Oxford/146605354",
+    "imgLink": "https://i5.walmartimages.com/asr/da6087e2-ad98-4031-8db8-345a77372295.c969d503244eab70f04a0299cba58af4.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr. Scholl's Men's Brisk Sneakers, Wide Width",
+    "brand": "Dr. Scholl's Shoes",
+    "price": "$44.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Men-s-Brisk-Sneakers-Wide-Width/16505922",
+    "imgLink": "https://i5.walmartimages.com/asr/279ca446-e335-45f2-b59b-4bd707565739_1.242bcda468a480a8d78c55181e61259d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Cotrell Walk Bicycle Toe Shoe",
+    "brand": "Clarks",
+    "price": "$81.08",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Cotrell-Walk-Bicycle-Toe-Shoe/121142179",
+    "imgLink": "https://i5.walmartimages.com/asr/903edfb9-99f6-4953-a6ec-c7c6c99d6960_1.5f78d10c78fded22a5f2b7e9cac1c0a6.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Clarks Grandin Plain Toe Sneaker",
+    "brand": "Clarks",
+    "price": "$105.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Clarks-Grandin-Plain-Toe-Sneaker/329124322",
+    "imgLink": "https://i5.walmartimages.com/asr/c39cb164-97cb-4759-8d88-35d76529aba8_1.e17a989ed1ffeb4e55d053170de5df9f.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Cotrell Edge Lace Up Shoe",
+    "brand": "Clarks",
+    "price": "$50.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Cotrell-Edge-Lace-Up-Shoe/476437162",
+    "imgLink": "https://i5.walmartimages.com/asr/11b39cb0-ede8-4647-8e30-39eee3dacb92_1.e10084f80cf31ac97999e9de7c0d6f45.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Eureka Plus Mudguard Oxford",
+    "brand": "Rockport",
+    "price": "$89.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Eureka-Plus-Mudguard-Oxford/928629886",
+    "imgLink": "https://i5.walmartimages.com/asr/331d0800-9f98-4c2a-9ef4-977a4cee3f32_1.3394f042982ffe38442e8d02d1706053.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "men's classic loafer lite venetian",
+    "brand": "Rockport",
+    "price": "$109.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/men-s-classic-loafer-lite-venetian/844880689",
+    "imgLink": "https://i5.walmartimages.com/asr/1f78c9ae-d25c-4d82-a82a-b5e358149dae.65c2fa54231ea2ccdd6cc4f5ccb64b7b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Classic Loafer Lite Penny",
+    "brand": "Rockport",
+    "price": "$99.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Classic-Loafer-Lite-Penny/717845789",
+    "imgLink": "https://i5.walmartimages.com/asr/5ee6ec86-bccf-4dce-829f-70569b744080.9347dc0ff5ea9e87ef3e921c22e32412.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr. Scholl's Shoes Delta Walking Sneakers (Men)",
+    "brand": "Dr. Scholl's Shoes",
+    "price": "$34.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Shoes-Delta-Walking-Sneakers-Men/319155654",
+    "imgLink": "https://i5.walmartimages.com/asr/ef4028b3-2e20-4bad-97cf-994f2c37f755_1.24b234b0163341bca9df94cfcb2d3133.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Clarks Tilden Cap Toe Oxford",
+    "brand": "Clarks",
+    "price": "$79.05",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Clarks-Tilden-Cap-Toe-Oxford/367400542",
+    "imgLink": "https://i5.walmartimages.com/asr/44bcb876-b05d-4fbe-bc53-efe961b91d0d.918ed081b270399676c05aaa14bd7d27.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr. Scholl's Men's Dave Work Shoe",
+    "brand": "Dr. Scholl's Shoes",
+    "price": "$34.97",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Men-s-Dave-Work-Shoe/522327567",
+    "imgLink": "https://i5.walmartimages.com/asr/179db83d-a27b-41e5-9986-5fdb85147a28_1.b027a1ee84b5879744a1d034bf5c5d0e.png?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Clarks Tilden Plain II Oxford",
+    "brand": "Clarks",
+    "price": "$59.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Clarks-Tilden-Plain-II-Oxford/986277755",
+    "imgLink": "https://i5.walmartimages.com/asr/6f4b48ae-8402-4cd9-b02f-0928ba3fea6f_1.a7bde4392a029ae131fb4a7f7b621356.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Clarks Mens Tilden Cap Leather Lace-Up Oxfords",
+    "brand": "Clarks",
+    "price": "$49.58",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Clarks-Mens-Tilden-Cap-Leather-Lace-Up-Oxfords/533881525",
+    "imgLink": "https://i5.walmartimages.com/asr/44bcb876-b05d-4fbe-bc53-efe961b91d0d.918ed081b270399676c05aaa14bd7d27.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Essential Details Waterproof Apron Toe",
+    "brand": "Rockport",
+    "price": "$109.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Essential-Details-Waterproof-Apron-Toe/100374732",
+    "imgLink": "https://i5.walmartimages.com/asr/dae1d5b4-7e27-4127-9327-be65a14f65f3.f2608db0c84708f0eef56bc7077f5727.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr.Scholl's Sabotage Men's Sneaker",
+    "brand": "Dr. Scholl's",
+    "price": "$16.63",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Sabotage-Men-s-Sneaker/823673204",
+    "imgLink": "https://i5.walmartimages.com/asr/f3be94fd-c786-4915-9c13-395550c64831.01f7861c6b4d020b07bb3ed452022413.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Essential Details Waterproof Wing Tip",
+    "brand": "Rockport",
+    "price": "$89.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Essential-Details-Waterproof-Wing-Tip/477332074",
+    "imgLink": "https://i5.walmartimages.com/asr/72a35883-47e0-48b9-ab68-a8893f7b1cc8.9f795894d79f308a39b988b43cc3e193.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr. Scholl's Men's Griff Slip-On Work Shoe",
+    "brand": "Dr. Scholl's Shoes",
+    "price": "$34.94",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Men-s-Griff-Slip-On-Work-Shoe/257591074",
+    "imgLink": "https://i5.walmartimages.com/asr/0acb2bce-d605-42d2-ac2e-ebb352b9daad_1.884b005f7a43d86e780119a320dd6d6a.png?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "AdTec Men's 6\" Comfort Work Boots",
+    "brand": "AdTec",
+    "price": "$75.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/AdTec-Men-s-6-Comfort-Work-Boots/629320068",
+    "imgLink": "https://i5.walmartimages.com/asr/e4865000-29f3-42fd-87e7-464090227d8e_1.f300142eae0084d1743fd788b984e660.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Dr.Scholl's Vault Oxford Sneaker (Men's)",
+    "brand": "Dr. Scholl's",
+    "price": "$22.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Dr-Scholl-s-Vault-Oxford-Sneaker-Men-s/225898557",
+    "imgLink": "https://i5.walmartimages.com/asr/5bb68ae9-1f97-4614-a114-b25970d77539.fef4ff2edffe7a18b39614807b38599b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Modern Prep Penny Loafer",
+    "brand": "Rockport",
+    "price": "$89.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Modern-Prep-Penny-Loafer/555334691",
+    "imgLink": "https://i5.walmartimages.com/asr/c9f86555-f079-4e73-a530-04f30780094a_1.c90cdac2298dec3b6b91a0e0d522e79b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Ad Tec Men's Shoes 6\" Tumbled Leather Closed Toe Ankle Fashion Boots",
+    "brand": "AdTec",
+    "price": "$75.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Ad-Tec-Men-s-Shoes-6-Tumbled-Leather-Closed-Toe-Ankle-Fashion-Boots/759682124",
+    "imgLink": "https://i5.walmartimages.com/asr/e68d436d-4175-4dfd-a8fe-57ce07a1f0d1.7fb9216ba452310dafab4bbd8750b08c.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Classic Loafer Lite Venetian",
+    "brand": "Rockport",
+    "price": "$67.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Classic-Loafer-Lite-Venetian/271523892",
+    "imgLink": "https://i5.walmartimages.com/asr/1f78c9ae-d25c-4d82-a82a-b5e358149dae.65c2fa54231ea2ccdd6cc4f5ccb64b7b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Athletic Works Men's Front Runner 4E Wide Width Athletic Shoe",
+    "brand": "Athletic Works",
+    "price": "$14.97",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Athletic-Works-Men-s-Front-Runner-Wide-Width-Athletic-Shoe/823598753",
+    "imgLink": "https://i5.walmartimages.com/asr/b81978ff-6571-47a7-aec6-f4a8da69bd71_1.2d17b43d97a82c7b35abff4549900166.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Nu Times Waterproof S.U.P.R.O. Sock Comfort Dress Oxford Shoe (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Nu-Times-Waterproof-S-U-P-R-O-Sock-Comfort-Dress-Oxford-Shoe-Wide-Available/111308537",
+    "imgLink": "https://i5.walmartimages.com/asr/a041bf86-d0c2-4558-9d0f-8d10d61d216f_1.fc5d9c42cdcdec7672412fb6a8e4e861.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Nu Times Waterproof S.U.P.R.O. Sock Comfort Dress Oxford Shoe (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Nu-Times-Waterproof-S-U-P-R-O-Sock-Comfort-Dress-Oxford-Shoe-Wide-Available/138671288",
+    "imgLink": "https://i5.walmartimages.com/asr/a041bf86-d0c2-4558-9d0f-8d10d61d216f_1.fc5d9c42cdcdec7672412fb6a8e4e861.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Johnston Murphy Mens Bradford Cap Toe",
+    "brand": "Johnston & Murphy",
+    "price": "$204.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Johnston-Murphy-Mens-Bradford-Cap-Toe/400178197",
+    "imgLink": "https://i5.walmartimages.com/asr/202bb907-7820-468e-98d5-d4bc83c04cd9.e179578cd1897e24e91efde6be29dfd9.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Nu Times Waterproof S.U.P.R.O. Sock Comfort Dress Oxford Shoe (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Nu-Times-Waterproof-S-U-P-R-O-Sock-Comfort-Dress-Oxford-Shoe-Wide-Available/190967145",
+    "imgLink": "https://i5.walmartimages.com/asr/a041bf86-d0c2-4558-9d0f-8d10d61d216f_1.fc5d9c42cdcdec7672412fb6a8e4e861.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian Bolton Free Slip-On",
+    "brand": "Bostonian",
+    "price": "$62.92",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-Bolton-Free-Slip-On/633603645",
+    "imgLink": "https://i5.walmartimages.com/asr/b45049df-257e-42d3-b5f5-6d21def7b8fd_1.104fa2b7d6371e2f90a28b7ceed85e04.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Nu Times Waterproof S.U.P.R.O. Sock Comfort Dress Oxford Shoe (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Nu-Times-Waterproof-S-U-P-R-O-Sock-Comfort-Dress-Oxford-Shoe-Wide-Available/101655666",
+    "imgLink": "https://i5.walmartimages.com/asr/a041bf86-d0c2-4558-9d0f-8d10d61d216f_1.fc5d9c42cdcdec7672412fb6a8e4e861.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Nu Times Waterproof S.U.P.R.O. Sock Comfort Dress Oxford Shoe (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Nu-Times-Waterproof-S-U-P-R-O-Sock-Comfort-Dress-Oxford-Shoe-Wide-Available/182089202",
+    "imgLink": "https://i5.walmartimages.com/asr/a041bf86-d0c2-4558-9d0f-8d10d61d216f_1.fc5d9c42cdcdec7672412fb6a8e4e861.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian Bridgeport Low Oxford",
+    "brand": "Bostonian",
+    "price": "$72.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-Bridgeport-Low-Oxford/657216480",
+    "imgLink": "https://i5.walmartimages.com/asr/841ee84d-f1ce-4f32-aa9f-bd45af453e51.2ef64705fbd39de6172727d8bc97782d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian Birkett Step Loafer",
+    "brand": "Bostonian",
+    "price": "$99.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-Birkett-Step-Loafer/701247018",
+    "imgLink": "https://i5.walmartimages.com/asr/88e761f2-497b-48b2-bf89-9b99018c8025_1.7d1e161ea479858c146f32a1a634b3c9.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian No16 Soft Lace Oxford",
+    "brand": "Bostonian",
+    "price": "$38.46",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-No16-Soft-Lace-Oxford/560837630",
+    "imgLink": "https://i5.walmartimages.com/asr/f205690f-f82e-4ef3-b277-7fd78bb72f8e.d0fc21d99405ad17eaa5a8ffa15ef868.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Williamsburg Oxford Dress Shoes (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Williamsburg-Oxford-Dress-Shoes-Wide-Available/150606319",
+    "imgLink": "https://i5.walmartimages.com/asr/83c9f517-9138-439b-919a-5faee0afdf35_1.cd9b81759c0cdf81f29c3b49433d789d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Dr. Scholl's Scroll Sport Chukka Boot",
+    "brand": "Dr. Scholl's",
+    "price": "$52.25",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Dr-Scholl-s-Scroll-Sport-Chukka-Boot/996538849",
+    "imgLink": "https://i5.walmartimages.com/asr/9d374959-56a8-44d1-8873-ff2ebf871dff_1.ed7db790eb68e4513bf6c31dad0acaaa.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Drew Delaware Wing Tip",
+    "brand": "Drew",
+    "price": "$162.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Drew-Delaware-Wing-Tip/147717391",
+    "imgLink": "https://i5.walmartimages.com/asr/4c2591fc-c8c5-417c-93c7-271f748442b1_1.4eee48c15f19becdeefd46810d3a118b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Ellie Shoes Mens 121-AARON-L-BLK Closed Toe Penny Loafer, Blkp, Size 8.0",
+    "brand": "ELLIE SHOES",
+    "price": "$54.78",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Ellie-Shoes-Mens-121-AARON-L-BLK-Closed-Toe-Penny-Loafer-Blkp-Size-8-0/46011961",
+    "imgLink": "https://i5.walmartimages.com/asr/8d5c56cb-a5dd-4442-9194-2563b6790a3c_1.c5cf4ae720d3ca7758d9cf1127e7bae8.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian Nantasket Cap Toe Derby",
+    "brand": "Bostonian",
+    "price": "$74.00",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-Nantasket-Cap-Toe-Derby/552018988",
+    "imgLink": "https://i5.walmartimages.com/asr/14d2db91-634d-4760-b5f4-de5e9efcbe46.808ba9598573f2e5ee9ba7433081295c.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Junction Point Slip On Loafer",
+    "brand": "Rockport",
+    "price": "$99.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Junction-Point-Slip-On-Loafer/907038813",
+    "imgLink": "https://i5.walmartimages.com/asr/2f7153aa-44a7-466d-ac13-4c0e050d4192.122ea6dca8fdc19c3999fc6e15597b21.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Bostonian Wenham Cap Toe Derby",
+    "brand": "Bostonian",
+    "price": "$44.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Bostonian-Wenham-Cap-Toe-Derby/711641268",
+    "imgLink": "https://i5.walmartimages.com/asr/8aa2490e-27ef-4b74-b46f-8efedd23f99e_1.99fd594835dddde49b4402d0ce0dbc35.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Dr. Scholl's Invert Oxford",
+    "brand": "Dr. Scholl's",
+    "price": "$22.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Dr-Scholl-s-Invert-Oxford/713002840",
+    "imgLink": "https://i5.walmartimages.com/asr/7175df21-4f81-4c88-8154-95acc020243b_1.9b3d98bff1f84282cb5d49df9cea47d2.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Merrell Jungle Moc Slip-On",
+    "brand": "Merrell",
+    "price": "$65.07",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Merrell-Men-s-Jungle-Moc-Shoe/176456088",
+    "imgLink": "https://i5.walmartimages.com/asr/c15287f8-c022-4881-9069-b6a868683f38.13323b481b569171685258152ac25cc7.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "George Men's Mike Velcro Strap Comfort Shoe",
+    "brand": "GEORGE",
+    "price": "$25.78",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/George-Men-s-Mike-Comfort-Shoes/203043562",
+    "imgLink": "https://i5.walmartimages.com/asr/f0f74118-07fa-49bd-9b84-58580aabb0f3.c5bc3216c9fba9a02b921c02a46c3fb1.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Daxx Men's Wade Leather Cap Toe Dress Shoe",
+    "brand": "Daxx",
+    "price": "$37.09",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Daxx-Men-s-Wade-Leather-Cap-Toe-Dress-Shoe/138922664",
+    "imgLink": "https://i5.walmartimages.com/asr/094f64f9-6e9c-4f74-9500-7707e1ab5ba5_1.2e966ce449033720305a210d58c388e3.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Carter Mens Slip On Loafers Snakeskin Dress Shoes Leather Lined",
+    "brand": "Alpine Swiss",
+    "price": "$39.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Alpine-Swiss-Carter-Mens-Slip-On-Loafers-Snakeskin-Dress-Shoes-Leather-Lined/655008078?wpa_bd=&wpa_pg_seller_id=6ED6480FF7CB494FB83366D7D826D993&wpa_ref_id=wpaqs:QZilfvCKdnayEtbL-4PgYr8t6QpY6CDak-6VRbDctn-MXGdRHevtlPRVT8Y8T74R4HBZH8gR7bpPfo8tQMtc3vPbSVMredqqlYZM-SsTHPOFnvjup9fv6lw_5J2Kt7s2itDTx4Hk3-mn9BV2fxygt1Zj4eg_T-5DEXSZ24NLPLlcak3c7075hTlGC9BmLMJwzvutgEcxFvKSYet36H1sSQ&wpa_tag=&wpa_aux_info=&wpa_pos=3&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=423be3a4-53af-4d7c-998f-3cd40a2e4d82&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_2375051&wpa_st=__searchterms__&wpa_tax=5438_1045804_1045807_2375051&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/000d4c62-2f57-4fde-9621-4d92c4ee07a1_1.288eff0e612617b809241ee590ff3199.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Neil Mens Snakeskin Oxford Dress Shoes Lace Up Casual Derby Loafers",
+    "brand": "Alpine Swiss",
+    "price": "$34.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Alpine-Swiss-Neil-Mens-Snakeskin-Oxford-Dress-Shoes-Lace-Up-Casual-Derby-Loafers/457722053?wpa_bd=&wpa_pg_seller_id=6ED6480FF7CB494FB83366D7D826D993&wpa_ref_id=wpaqs:EsWUKAVF0reXmBR2kwo3qHiJ6BC5iLR_iWIWibT4WgZLf-D07W4Xm-Fy5pMpzLHm4HBZH8gR7bpPfo8tQMtc3mu_ArOLiDfyJsNszALN1_oR1yVR2leklK4h5G3e9WlPitDTx4Hk3-mn9BV2fxygt1Zj4eg_T-5DEXSZ24NLPLlcak3c7075hTlGC9BmLMJwzvutgEcxFvKSYet36H1sSQ&wpa_tag=&wpa_aux_info=&wpa_pos=4&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=423be3a4-53af-4d7c-998f-3cd40a2e4d82&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_2375051&wpa_st=__searchterms__&wpa_tax=5438_1045804_1045807_2375051&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/56181669-b24e-4ffc-b5b0-44097cda654a_1.ca8c91e1e2df7299948b208a3dad57d7.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Leather Double Monk Strap Dress Shoe",
+    "brand": "Tuck & Von",
+    "price": "$57.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Leather-Double-Monk-Strap-Dress-Shoe/322204195",
+    "imgLink": "https://i5.walmartimages.com/asr/c2297838-76d5-4ac1-a4a4-84cfc721b5c3_1.cf1043cd9fcdc2dcb6e34ed18886fa74.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Drive Memory Foam Slip-On Driving Moc Loafer (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$39.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Drive-Memory-Foam-Slip-On-Driving-Moc-Loafer-Wide-Available/133060377",
+    "imgLink": "https://i5.walmartimages.com/asr/a1f0e3e3-8e94-420d-9983-58f6a1685fae_1.f121d654279a44e554038256276f65c3.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "George Men's Metropolis Slip On Oxford Dress Shoe",
+    "brand": "GEORGE",
+    "price": "$25.78",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/George-Men-s-Metropolis-Square-Toe-Slip-On-Oxford-Dress-Shoe/667210771",
+    "imgLink": "https://i5.walmartimages.com/asr/0a529497-56fd-4eb8-b6f2-5442253994bb_1.7de9ecaa430c5a4bf2813878d9a940de.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Leather Textured Wingtip Derby",
+    "brand": "Tuck & Von",
+    "price": "$64.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Leather-Textured-Wingtip-Derby/318561988",
+    "imgLink": "https://i5.walmartimages.com/asr/7206809c-711a-485d-be5d-cbf770a141a6_1.d62b1c0b6af9e5c3f4f8e7de8908e7bf.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Fit Memory Foam Slip-On Dress Casual Comfort Loafer (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$28.34",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Fit-Memory-Foam-Slip-On-Dress-Casual-Comfort-Loafer-Wide-Available/53760295",
+    "imgLink": "https://i5.walmartimages.com/asr/b4f6d337-98cc-4458-94a9-18ff3776a38b.1c14eb17b3f4156d36733e2bc441655b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Leather Textured Cap Toe Oxford",
+    "brand": "Tuck & Von",
+    "price": "$69.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Leather-Textured-Cap-Toe-Oxford/821475366",
+    "imgLink": "https://i5.walmartimages.com/asr/f8a71f0d-b2e1-4446-8834-b84dab344070_1.fc45016f1a5d3391468f5ded5c218216.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Leather Textured Wingtip Oxford",
+    "brand": "Tuck & Von",
+    "price": "$69.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Leather-Textured-Wingtip-Oxford/384677132",
+    "imgLink": "https://i5.walmartimages.com/asr/56f0dad8-673f-44d8-b88b-2c5435b1af29_1.45a2d048c0b42f582e719ce8a6ad654d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Suede Lightweight Canvas Accent Derby",
+    "brand": "Tuck & Von",
+    "price": "$39.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Suede-Lightweight-Canvas-Accent-Derby/156577049",
+    "imgLink": "https://i5.walmartimages.com/asr/b1f69606-99c1-4a4c-922e-6d53a747728c_1.22f01526e12a32ed09251c64e3afbdbb.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Gino Vitale Lace-up Cap Toe Dress Shoes",
+    "brand": "Gino Vitale",
+    "price": "$39.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Gino-Vitale-Lace-up-Cap-Toe-Dress-Shoes/339892584?wpa_bd=&wpa_pg_seller_id=72E6F0B0C2DB476F96EF47D41276D0F8&wpa_ref_id=wpaqs:CaH4-geXVqb_ekes0bItu-8dtuf2-QjTel6DdvecV-ta4J8POcuHILDjT6XJlcHl8gN5H1Xsg6-AdCGagP6AzZJZKvycmA8fZf0zAOW9CDfCilGKzWsxFhdcjBxJuZq-itDTx4Hk3-mn9BV2fxygt1Zj4eg_T-5DEXSZ24NLPLlcak3c7075hTlGC9BmLMJwzvutgEcxFvKSYet36H1sSQ&wpa_tag=&wpa_aux_info=&wpa_pos=13&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=423be3a4-53af-4d7c-998f-3cd40a2e4d82&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_2375051&wpa_st=__searchterms__&wpa_tax=5438_1045804_1045807_2375051&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/5df26a23-7c8f-4b35-9a7f-df6e7f5e2ea1_1.d56a608e3cd89314c51d8b4a4f2572ed.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Beau Men's Dress Wingtip Brogue",
+    "brand": "Alpine Swiss",
+    "price": "$34.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Alpine-Swiss-Beau-Mens-Dress-Shoes-Genuine-Suede-Wing-Tip-Brogue-Lace-Up-Oxfords/52217324?wpa_bd=&wpa_pg_seller_id=6ED6480FF7CB494FB83366D7D826D993&wpa_ref_id=wpaqs:69PfYd_JSfj_DbuSreCb-Od-CsUDycpvoV-YhNJAcbpLf-D07W4Xm-Fy5pMpzLHm4HBZH8gR7bpPfo8tQMtc3mu_ArOLiDfyJsNszALN1_rHFopjclfGbVfdjMgNYt5N3aFZCMVRxXNGYPCn89XFvabc0jgKRgB-LqfTHAEwFquQp1StUMl0CMZULJemrEDklNjY_3WoYkVJIUxhnI3EXQ&wpa_tag=&wpa_aux_info=&wpa_pos=14&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=423be3a4-53af-4d7c-998f-3cd40a2e4d82&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_2375051&wpa_st=__searchterms__&wpa_tax=5438_1045804_1045807_2375051&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/40510dce-0d2d-4875-8eb3-c3d6f1cb507d_1.fe34b9619b90c9e6c660b954f613411d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Academie Gear Men's James School Shoes",
+    "brand": "Academie Gear",
+    "price": "$28.42",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Academie-Gear-Men-s-James-School-Shoes/510700468",
+    "imgLink": "https://i5.walmartimages.com/asr/ccd55729-dc29-43bf-8eea-7296c93ed54e_1.98a4d83554511b60024e2c38d74ee43a.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Williamsburg Oxford Dress Shoes (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Williamsburg-Oxford-Dress-Shoes-Wide-Available/150606319",
+    "imgLink": "https://i5.walmartimages.com/asr/83c9f517-9138-439b-919a-5faee0afdf35_1.cd9b81759c0cdf81f29c3b49433d789d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Daxx Men's Lewis Chelsea Boot (Wide Sizes Available)",
+    "brand": "Daxx",
+    "price": "$49.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Daxx-Men-s-Lewis-Wide-width-Chelsea-Boot/55849110",
+    "imgLink": "https://i5.walmartimages.com/asr/eb687fc6-6178-404c-aa33-c2c26f992431_1.48368216397d58a8cd0b40bdded6ec34.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Mio Marino Men's Casually Suave Leather Penny Loafers",
+    "brand": "Mio Marino",
+    "price": "$37.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Mio-Marino-Men-s-Casually-Suave-Leather-Penny-Loafers/646707893",
+    "imgLink": "https://i5.walmartimages.com/asr/4e305a0d-1884-41b6-b157-d88a7518e4af_1.5d5ea3258fbb07e4f4cb44c72c810933.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Times Plain Toe Oxford Dress Shoes (Wide Available)",
+    "brand": "Deer Stags",
+    "price": "$34.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Times-Plain-Toe-Oxford-Dress-Shoe-Wide-Available/16520938",
+    "imgLink": "https://i5.walmartimages.com/asr/baff8c21-6fb9-4150-84ae-d135c3cf43e7_1.9689d60037f262dfbb7c2f59fbd7f1da.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Mio Marino Mens Deevors Perforated Casual Dress Shoe",
+    "brand": "Mio Marino",
+    "price": "$39.97",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Mio-Marino-Men-s-Deevor-s-Perforated-Casual-Dress-Shoe/124320013",
+    "imgLink": "https://i5.walmartimages.com/asr/6d038127-e73d-466e-ae31-f81c4abed0ff_1.1145562175b65848c3ea3cfdfbcf3fd8.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Shipley Memory Foam Classic Dress Comfort Oxford Shoe",
+    "brand": "Deer Stags",
+    "price": "$31.23",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Shipley-Memory-Foam-Classic-Dress-Comfort-Oxford-Shoe/121810357",
+    "imgLink": "https://i5.walmartimages.com/asr/523ba563-823d-4f6e-b39c-ab4759503df6_1.13e9e2ecd5f9584883a67eb46bcb4a19.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Brogue Dress Derby",
+    "brand": "Tuck & Von",
+    "price": "$69.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Brogue-Dress-Derby/151952169",
+    "imgLink": "https://i5.walmartimages.com/asr/202df543-6aca-44c4-af21-3c928786e1bd_2.1161e84863f3c663c473a0f07b3579b1.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Daxx Men's Eric Knit Wingtip Sneaker",
+    "brand": "Daxx",
+    "price": "$30.69",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Daxx-Men-s-Eric-Knit-Wingtip-Sneaker/536616009",
+    "imgLink": "https://i5.walmartimages.com/asr/6bdfa980-66e8-4408-82e7-8119e4c19f52_1.8027f16034b40a434955d1cbce125d12.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Leather Weave Lace-up Derby",
+    "brand": "Tuck & Von",
+    "price": "$69.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Leather-Weave-Lace-up-Derby/501482233",
+    "imgLink": "https://i5.walmartimages.com/asr/a1c9e7c4-79dd-4e80-af39-e071f3ffe42a_1.4f7398e16a4c15f9f406acd794439300.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Daxx Mens Stacked Wood Heel Chelsea Boot",
+    "brand": "Daxx",
+    "price": "$49.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Daxx-Mens-Stacked-Wood-Heel-Chelsea-Boot/877626636",
+    "imgLink": "https://i5.walmartimages.com/asr/381fff00-e403-4ef5-8d20-a6d5b98de104.59892e91a81e024800d2a04f0bd1aaa7.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Two-tone Wingtip Boot",
+    "brand": "Tuck & Von",
+    "price": "$74.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Two-tone-Wingtip-Boot/874771637",
+    "imgLink": "https://i5.walmartimages.com/asr/64ceb32c-5e06-49e3-a51a-dc9f871a7582_1.abd56d45100220ab3753773db5746b63.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Suede Perforated Wingtip Derby",
+    "brand": "Tuck & Von",
+    "price": "$39.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Suede-Perforated-Wingtip-Derby/185156827",
+    "imgLink": "https://i5.walmartimages.com/asr/963a4d9e-7460-48cd-be57-ead14a4003b2_1.887b9f5f5738e6bf49c5c3b6acbe2155.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Suede Perforated Lace-up Derby",
+    "brand": "Tuck & Von",
+    "price": "$49.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Suede-Perforated-Lace-up-Derby/553132638",
+    "imgLink": "https://i5.walmartimages.com/asr/9752ca83-f000-4c86-9823-9731c60f10e7_1.85e1de2ea3062436caf5b8137fa6d8f2.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Tuck & Von Mens Genuine Suede Lightweight Derby",
+    "brand": "Tuck & Von",
+    "price": "$59.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Tuck-Von-Mens-Genuine-Suede-Lightweight-Derby/622388437",
+    "imgLink": "https://i5.walmartimages.com/asr/ce53a152-0bc6-4e7c-86d4-4d0a8a936eb1_1.9ae5e11fcb119c58278e65c50ed3a783.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Deer Stags Men's Berger Wingtip Oxford Sneaker",
+    "brand": "Deer Stags",
+    "price": "$44.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Deer-Stags-Men-s-Berger-Wingtip-Oxford-Sneaker/715390764",
+    "imgLink": "https://i5.walmartimages.com/asr/74332947-5450-416a-937d-8f8775e7bba1_1.dc09dcae631e9db1c0e7972799cb5761.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "George Men's Bit Loafer Dress Shoe",
+    "brand": "GEORGE",
+    "price": "$25.78",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/George-Men-s-Bit-Loafer-Dress-Shoe/910523074",
+    "imgLink": "https://i5.walmartimages.com/asr/04bf73a5-e4ba-4a0a-90ab-3b720b28d74c_1.cb6b649807d373061aa81e1149b638ca.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Bolano Mens Spiked Mesa Slip-on Smoking Driving Loafer",
+    "brand": "Bolano",
+    "price": "$29.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Bolano-Mens-Spiked-Mesa-Slip-on-Smoking-Driving-Loafer/611386911",
+    "imgLink": "https://i5.walmartimages.com/asr/6776e4a0-cf7e-455a-aa73-d7e85a02ea56_1.d25a7c93e196701732bfb086de6789d4.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Zurich Men's Wing Tip Dress Shoes Two Tone Brogue Lace Up Oxfords",
+    "brand": "Alpine Swiss",
+    "price": "$19.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Alpine-Swiss-Zurich-Mens-Wing-Tip-Dress-Shoes-Two-Tone-Brogue-Lace-Up-Oxfords/38438347",
+    "imgLink": "https://i5.walmartimages.com/asr/34159393-1021-4117-97a1-0cfaa253e4ae_1.37231d4f93dfd44d3f77db98c642c40e.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Sperry Top-Sider Men's Billfish 3-Eye Boat Shoe",
+    "brand": "Sperry",
+    "price": "$39.98",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Sperry-Top-Sider-Billfish-3-Eye-Boat-Shoe-Mens/124695135",
+    "imgLink": "https://i5.walmartimages.com/asr/7ffea3b3-1399-41c9-954c-9b7bb370631b_1.07a3abbdd6c58c746e5802b2993e461f.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Daxx Men's Sean Tuxedo Dress Shoe (Wide Sizes Available)",
+    "brand": "Daxx",
+    "price": "$49.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Daxx-Men-s-Sean-Tuxedo-Dress-Shoe/50146751",
+    "imgLink": "https://i5.walmartimages.com/asr/0687cfea-1a58-425b-9bc6-d59ec48dbcad_1.ec485f9fde87f5cb58401492bf6aa2e8.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Bolano Mens Metallic Glitter Sarlo Slip on Smoking Loafer - Runs Big Size Down 88",
+    "brand": "Bolano",
+    "price": "$39.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Bolano-Mens-Metallic-Glitter-Sarlo-Slip-on-Smoking-Loafer-Runs-Big-Size-Down-88/294839617",
+    "imgLink": "https://i5.walmartimages.com/asr/9564480a-b50c-46d2-9d31-ba0f46b11372_1.cdfc8a1a918295bd7244f0f645ff96b0.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Alpine Swiss Men's Leather Lined Baseball Stitch Oxford Dress Shoes",
+    "brand": "Alpine Swiss",
+    "price": "$29.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/AlpineSwiss-Mens-Oxford-Dress-Shoes-Lace-Up-Leather-Lined-Baseball-Stitch-Loafer/413621669?wpa_bd=&wpa_pg_seller_id=6ED6480FF7CB494FB83366D7D826D993&wpa_ref_id=wpaqs:69PfYd_JSfj_DbuSreCb-HiJ6BC5iLR_iWIWibT4WgZLf-D07W4Xm-Fy5pMpzLHm4HBZH8gR7bpPfo8tQMtc3trhoYjFoY2xefMwu3yRUyfdrZL45xrHYYQAATyyE3TG3aFZCMVRxXNGYPCn89XFvabc0jgKRgB-LqfTHAEwFquQp1StUMl0CMZULJemrEDklNjY_3WoYkVJIUxhnI3EXQ&wpa_tag=&wpa_aux_info=&wpa_pos=37&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=423be3a4-53af-4d7c-998f-3cd40a2e4d82&wpa_pg=browse&wpa_pg_id=5438_1045804_1045807_2375051&wpa_st=__searchterms__&wpa_tax=5438_1045804_1045807_2375051&wpa_bucket=__bkt__",
+    "imgLink": "https://i5.walmartimages.com/asr/389d9be0-2b40-4124-a661-d09a429f2c92_1.f4e4d10b574d5913a326869886da9bbd.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "School Issue Kids Boys Scholar Dress Shoes",
+    "brand": "School Issue",
+    "price": "$14.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/School-Issue-Kids-Boys-Scholar-Dress-Shoes/197645165",
+    "imgLink": "https://i5.walmartimages.com/asr/0eca7172-6836-4fb7-ab02-3ddbb5fc7c6d_1.0d76dc2e5222c9e936fd501cab8d32b3.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Sperry Authentic Original Boat Shoe",
+    "brand": "Sperry",
+    "price": "$69.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Sperry-Top-Sider-Authentic-Original-2-Eye-Boat-Shoe-Mens/52112637",
+    "imgLink": "https://i5.walmartimages.com/dfw/dce07b8c-91c0/k2-_239a86d9-574a-44ec-b631-a4b5ae73b92f.v1.jpg?odnWidth=282&odnHeight=376&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Clarks Tilden Free",
+    "brand": "Clarks",
+    "price": "$19.19",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Clarks-Tilden-Free/804216791",
+    "imgLink": "https://i5.walmartimages.com/asr/53b23e4e-825e-41d6-b8b6-b5fb1dddaf3a_1.0a9df9a3018bdf1c0ecb421ca73cc2d4.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport World Tour Classic Walking Shoe",
+    "brand": "Rockport",
+    "price": "$99.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-World-Tour-Classic-Walking-Shoe/733382533",
+    "imgLink": "https://i5.walmartimages.com/asr/365eb846-935f-47be-a891-ade7ec76b515_1.607427cc1cc840a23c79687353e3d777.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Dr. Scholl's Sync Plain Toe Oxford",
+    "brand": "Dr. Scholl's",
+    "price": "$54.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Dr-Scholl-s-Sync-Plain-Toe-Oxford/747061202",
+    "imgLink": "https://i5.walmartimages.com/asr/99f0e794-b296-4ec9-ac64-3b4fc2d6a51f.c642e95e19582b2c7d2009da9c7672b7.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's ECCO New Jersey Slip On",
+    "brand": "ECCO Electronic",
+    "price": "$99.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-ECCO-New-Jersey-Slip-On/479440593",
+    "imgLink": "https://i5.walmartimages.com/asr/05a2b525-cab3-483e-8d24-4d3216c29572_1.6026f615b88d0dc5498c340331dea71d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Bolano Dezzy Rhinestone Smoking Slippers Pointed Metal Toe Loafer Dress Shoe",
+    "brand": "Bolano",
+    "price": "$69.99",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Bolano-Dezzy-Rhinestone-Smoking-Slippers-Pointed-Metal-Toe-Loafer-Dress-Shoe/460673367",
+    "imgLink": "https://i5.walmartimages.com/asr/24495d0a-b9a6-4371-bccd-5fc59af6f1d9.ef94502d7b733186c0d48c8c4865889a.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  },
+  {
+    "name": "Men's Rockport Northfield Oxford",
+    "brand": "Rockport",
+    "price": "$89.95",
+    "retailer": "Walmart",
+    "buyLink": "https://www.walmart.com/ip/Men-s-Rockport-Northfield-Oxford/583924758",
+    "imgLink": "https://i5.walmartimages.com/asr/2730e10b-cb1d-41be-ae7b-a57126d4cccd_1.1b6cb71e05b774abc92a930d192b4e97.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"
+  }
+]
